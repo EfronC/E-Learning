@@ -79,4 +79,4 @@ POST /api/question_details/
 
 **Django:** Python Web Framework, used to create Backend on Python. \
 **SQLite:** Default Database included with Django, doesn't require installation. \
-**Django RestFramework** Django Library that integrates tools for the implementation of a RESTful API, enables the use of Token authentication and PUT and DELETE requests.
+**Django RestFramework** Django Library that integrates tools for the implementation of a RESTful API and enables the use of Token authentication.
